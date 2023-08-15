@@ -4,7 +4,7 @@ I'm Ken. I have a Master of Science in Information Management degree specializin
 ### Recipe Ingredient Substitution Finder
 * A machine learning project to try to automatically find ingredients that could be substituted for one another in recipes
 * Investigated the possible application of NLP techniques in non-language fields
-* [Code]()
+* [Code](https://github.com/kj-masumo/ingredient-sub)
 
 ### Reddit Career Advice Community Characterization and Analysis
 * A data science and analysis project using publicly-available Reddit data to learn more about the nature of anonymous, advice-giving communities online, and the characteristics of good advice within these communities
