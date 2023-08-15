@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ken. I have a Master of Science in Information Management degree specializing in Data Science from the University of Washington. I love using data to learn more about the "story" that it tells and help guide future decision-making. I work in Python and R, and am happy to share some of my favorite projects here on GitHub. You can find the code for these projects inside my [GitHub Repositories]().
+I'm Ken. I have a Master of Science in Information Management degree specializing in Data Science from the University of Washington. I love using data to learn more about the "story" that it tells and help guide future decision-making. I work in Python and R, and am happy to share some of my favorite projects here on GitHub. You can find the code for these projects inside my [GitHub Repositories](https://github.com/kj-masumo?tab=repositories).
 <!--
 **kj-masumo/kj-masumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
