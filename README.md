@@ -10,7 +10,7 @@ I'm Ken. I have a Master of Science in Information Management degree specializin
 * A data science and analysis project using publicly-available Reddit data to learn more about the nature of anonymous, advice-giving communities online, and the characteristics of good advice within these communities
 * Used Reddit's API (praw) to access over 16,000 comments from over 4,000 posts from popular advice-giving communities
 * Created Naive Bayes and Logistic Regression models to try to predict if a community thought advice was good
-* [Code]()
+* [Code](https://github.com/kj-masumo/reddit-advice)
 
 ### Abt Associates HR Analysis
 * A data analysis project on consulting firm Abt Associates' HR data to find ways to improve company hiring and talent retention with a focus on diversity
