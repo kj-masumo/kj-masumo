@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ken. I have a Master of Science in Information Management degree specializing in Data Science from the University of Washington. I love using data to learn more about the "story" that it tells and help guide future decision-making. I work in Python and R, and am happy to share some of my favorite projects here on GitHub. You can find the code for these projects at my [GitHub Repositories Page](https://github.com/kj-masumo?tab=repositories).
+I'm Ken. I have a Master of Science in Information Management degree specializing in Data Science from the University of Washington's Information School. I love using data to learn more about the "story" that it tells and help guide future decision-making. I work in Python and R, and am happy to share some of my favorite projects here on GitHub. You can find the code for these projects at my [GitHub Repositories Page](https://github.com/kj-masumo?tab=repositories).
 
 ### Recipe Ingredient Substitution Finder
 * A machine learning project to try to automatically find ingredients that could be substituted for one another in recipes
