@@ -16,7 +16,7 @@ I'm Ken. I have a Master of Science in Information Management degree specializin
 * A data analysis project on consulting firm Abt Associates' HR data to find ways to improve company hiring and talent retention with a focus on diversity
 * Combined data science and statistical significance techniques with extensive domain research to provide concrete and meaningful recommendations to Abt
 * Presented findings to company management
-* [Code]()
+* [Code](https://github.com/kj-masumo/hr-analysis)
 
 ### Australian Weather Pattern Predictor
 * A short machine learning project using weather pattern data in Australia to predict if there will be rain on the following day
