@@ -27,7 +27,7 @@ I'm Ken. I have a Master of Science in Information Management degree specializin
 ### Australian Weather Pattern Predictor
 * A short machine learning project using weather pattern data in Australia to predict if there will be rain on the following day
 * Used KNN and fine-tuned hyperparameters to find the best possible model
-* [Code]()
+* [Code](https://github.com/kj-masumo/australian-weather)
 
 
 <!--
