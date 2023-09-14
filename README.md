@@ -18,16 +18,14 @@ I'm Ken. I have a Master of Science in Information Management degree specializin
 * Presented findings to company management
 * [Code](https://github.com/kj-masumo/hr-analysis)
 
-### Employee Burnout and Work-Life Balance Data Analysis Project
-* Data analysis project on anonymous company's HR data to learn more about ways to improve employee efficiency with a focus on burnout and work-life balance
-* Combined data science and statistical significance techniques with domain research to formulate recommendations and present findings
-* [Code]()
-
-
 ### Australian Weather Pattern Predictor
 * A short machine learning project using weather pattern data in Australia to predict if there will be rain on the following day
 * Used KNN and fine-tuned hyperparameters to find the best possible model
 * [Code](https://github.com/kj-masumo/australian-weather)
+
+### Employee Burnout and Work-Life Balance Data Analysis Project
+* Data analysis project on anonymous company's HR data to learn more about ways to improve employee efficiency with a focus on burnout and work-life balance
+* Combined data science and statistical significance techniques with domain research to formulate recommendations and present findings
 
 
 <!--
